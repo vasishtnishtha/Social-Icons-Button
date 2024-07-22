@@ -13,7 +13,7 @@ Clean Code: Well-organized and commented code for easy understanding and modific
 
 ## Usage
 
-git clone https://github.com/yourusername/social-icons.git
+git clone https://github.com/vasishtnishtha/social-icons.git
 cd social-icons
 
 ## License
